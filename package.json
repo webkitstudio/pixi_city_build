@@ -1,0 +1,29 @@
+{
+  "name": "citybuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ampersand-state": "^5.0.2",
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2017": "^6.22.0",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "html-webpack-plugin": "^2.28.0",
+    "pixi.js": "^4.4.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.0",
+    "webpack-merge": "^3.0.0",
+    "webpack-uglify-js-plugin": "^1.1.9"
+  }
+}

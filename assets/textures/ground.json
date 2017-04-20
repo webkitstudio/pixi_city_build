@@ -1,0 +1,92 @@
+{"frames": {
+
+"brickpavers2.png":
+{
+	"frame": {"x":1,"y":1,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+"concrete368a.png":
+{
+	"frame": {"x":515,"y":1,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"cretebrick970.png":
+{
+	"frame": {"x":1,"y":259,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+"dirt.png":
+{
+	"frame": {"x":515,"y":131,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"dirtsand2.png":
+{
+	"frame": {"x":1,"y":517,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+"rock.png":
+{
+	"frame": {"x":515,"y":261,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"snow.png":
+{
+	"frame": {"x":515,"y":391,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"stone.png":
+{
+	"frame": {"x":1,"y":775,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+"tilable-IMG_0044-grey.png":
+{
+	"frame": {"x":1,"y":1033,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+},
+"tileable-S7002876-grey.png":
+{
+	"frame": {"x":1,"y":1291,"w":512,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":256},
+	"sourceSize": {"w":512,"h":256}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ground.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5a33cda6c5e06a56bfc83ce89029b30a:b3c8f49e41483c74df4f64ee89f6487c:40ddaf21241445873d2f4654d8101f43$"
+}
+}
